@@ -1,0 +1,29 @@
+h1 {
+    color: rgb(140, 13, 251);
+}
+
+button {
+    /* !important- altera a ordem de importância  */
+    background-color: rgb(155, 170, 255) !important;
+}
+
+.btn-sucess {
+    /* background-color: rgb(0, 255, 255, 0.415) */
+}
+
+/* _____________________________________________________________________________ */
+/* Breakpoints */
+
+/* Extra small	None	<576px
+Small	sm	≥576px
+Medium	md	≥768px
+Large	lg	≥992px
+Extra large	xl	≥1200px
+Extra extra large	xxl	≥1400px */
+
+/* Tamanho md */
+@media(min-width: 768px) {
+    h1 {
+        color: rgb(38, 0, 255);
+    }
+}
