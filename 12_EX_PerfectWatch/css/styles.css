@@ -522,7 +522,7 @@ body {
 }
 
 /* Estilos para as colunas no rodapé */
-#footer .fotter-column {
+#footer .footer-column {
     padding: 2em;
     flex-direction: column;
     align-items: center;
@@ -555,7 +555,7 @@ body {
 }
 
 /* Estilos ao passar o mouse sobre os links nos itens de listas do rodapé */
-#footer-links-continer li a:hover {
+#footer-links-container li a:hover {
     color: #976df2;
 }
 
